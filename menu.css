@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Arena {
+    width: 90%;
+    height: 800px;
+    background-color: black;
+    border: 10px solid gray;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.selector{
+    width: 33%;
+    height: 20%;
+    border: 5px solid grey;
+    border-radius: 5px;
+    margin: 20% auto;
+    margin-bottom: 5%;
+    background-color: whitesmoke;
+    opacity: 80%;
+    position: relative;
+}
+    h3{
+        text-align: center;
+        margin: 5px auto;
+    }
+    .arenaBtn {
+        width: 32%;
+        margin: 1px;
+    }
+    select{
+        vertical-align: top;
+        width: 40%;
+        margin: 20px;
+    }
+.playground1{
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 60px;
+    position: relative;
+    background-image: none;
+    background-size: contain;
+}
+
+.playground2{
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 60px;
+    position: relative;
+    background-image: none;
+}
