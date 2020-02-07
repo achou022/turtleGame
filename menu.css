@@ -3,13 +3,13 @@
     margin: 0px;
 }
 .Arena {
-    width: 90%;
-    height: 800px;
+    width: 90vw;
+    height: 40vw;
     background-color: black;
     border: 10px solid gray;
     background-image: none;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     margin: 10px;
 }
 
@@ -18,7 +18,8 @@
     height: 20%;
     border: 5px solid grey;
     border-radius: 5px;
-    margin: 20% auto;
+    margin: auto;
+    margin-top: 10%;
     margin-bottom: 5%;
     background-color: whitesmoke;
     opacity: 80%;
@@ -38,22 +39,23 @@
         margin: 20px;
     }
 .playground1{
-    width: 30%;
-    height: 30%;
-    display: inline-block;
+    width: 15%;
+    height: 45%;
     vertical-align: bottom;
-    margin: 60px;
+    float: left;
     position: relative;
     background-image: none;
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .playground2{
-    width: 30%;
-    height: 30%;
-    display: inline-block;
+    width: 15%;
+    height: 45%;
     vertical-align: bottom;
-    margin: 60px;
+    float: right;
     position: relative;
     background-image: none;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
