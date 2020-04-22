@@ -12,3 +12,7 @@
 2. When the user selects an arena, the arena image will fix to the game window and a new module will appear that allows the user(s) to select their game players. __*Refer to Wireframe 2*__
 
 3. As the user(s) select their game players, the player images will fix to the screen. __*Refer to Wireframe 3*__
+
+## Task Completed ##
+* build layout from scratch with HTML5 & CSS
+* implemented JQuery functionality in menu.js
